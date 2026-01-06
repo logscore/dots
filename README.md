@@ -1,2 +1,3 @@
 # dots
-My own dot/config files, added and updated manually
+
+Each Folder has its own README.md for adding those confgs to your own set up
